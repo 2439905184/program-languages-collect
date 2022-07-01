@@ -12,4 +12,4 @@
 | Rust | 静态类型，编译型，编译目标是可执行文件                              | https://www.rust-lang.org/        | 不清楚 | 无 |
 | aardio |动态类型，解释性，编译目标是exe，只支持Windows                     | https://aardio.com/               | 无    | 不清楚 |
 | Kotlin | 可以跨平台运行，可以开发安卓，也可以编译为native可执行              | https://kotlinlang.org/           | 不清楚 | 不清楚 |
-
+| C#     | 静态类型，编译后解释运行，跨平台，编译目标是C#字节码                 | https://dotnet.microsoft.com/en-us/languages/csharp | 不清楚 | 不清楚 |
