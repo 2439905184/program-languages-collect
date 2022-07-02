@@ -13,3 +13,4 @@
 | aardio |动态类型，解释性，编译目标是exe，只支持Windows                     | https://aardio.com/               | 无    | 不清楚 |
 | Kotlin | 可以跨平台运行，可以开发安卓，也可以编译为native可执行              | https://kotlinlang.org/           | 不清楚 | 不清楚 |
 | C#     | 静态类型，编译后解释运行，跨平台，编译目标是C#字节码                 | https://dotnet.microsoft.com/en-us/languages/csharp | 不清楚 | 不清楚 |
+| Prolog | Prolog 是一种与众不同的语言，不用来开发软件，专门解决逻辑问题。比如，"苏格拉底是人，人都会死，所以苏格拉底会死"这一类的问题。Prolog 就是"逻辑编程"（programming of Logic）的意思。只要给出事实和规则，它会自动分析其中的逻辑关系，然后允许用户通过查询，完成复杂的逻辑运算。适用于自然语言处理 | https://www.swi-prolog.org/ |
