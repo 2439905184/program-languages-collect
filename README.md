@@ -16,6 +16,8 @@
 | Prolog | Prolog 是一种与众不同的语言，不用来开发软件，专门解决逻辑问题。比如，"苏格拉底是人，人都会死，所以苏格拉底会死"这一类的问题。Prolog 就是"逻辑编程"（programming of Logic）的意思。只要给出事实和规则，它会自动分析其中的逻辑关系，然后允许用户通过查询，完成复杂的逻辑运算。适用于自然语言处理 | https://www.swi-prolog.org/ |
 | Elixir | Elixir 是一种动态的函数式语言，用于构建可扩展且可维护的应用程序。Elixir 利用 Erlang VM，该 VM 以运行低延迟、分布式和容错系统而闻名。Elixir已成功用于各行各业的Web开发，嵌入式软件，数据摄取和多媒体处理| https://elixir-lang.org/ | 不清楚 | 不清楚 |
 | Racket | Racket，面向语言的编程语言 | https://racket-lang.org/ | 不清楚 | 不清楚 |
+| SuperCollider | 用于音频合成和算法合成的平台，由音乐家，艺术家和从事声音工作的研究人员使用。(音乐编程语言) | https://supercollider.github.io/ | 不清楚 | 不清楚 |
+
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
 | --- | -----  | --------------------------| ----------|
