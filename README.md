@@ -28,6 +28,8 @@
 | Arturo | Arturo是一种独立开发的现代编程语言，与其他各种编程语言有模糊的联系 - 包括但不限于Logo，Rebol，Forth，Ruby，Haskell，D，SmallTalk，Tcl和Lisp。| https://arturo-lang.io/ | 不清楚 |不清楚|
 | Pike | Pike是一种动态编程语言，其语法类似于Java和C。它易于学习，不需要长时间的编译过程，并具有强大的内置数据类型，允许简单而快速的数据操作。 | http://pike.lysator.liu.se/ |不清楚|不清楚|
 | Haxe | Haxe是一种开源的高级严格类型编程语言，具有快速优化的交叉编译器 | https://haxe.org/ | 不清楚 | 不清楚 |
+| PureData | Pd（又名纯数据）是用于音频、视频和图形处理的实时图形编程环境。Pure Data（又名Pd）是一种开源的可视化编程语言。Pd 使音乐家、视觉艺术家、表演者、研究人员和开发人员能够以图形方式创建软件，而无需编写代码行。| http://puredata.info/ | 无 | 无|
+
 
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
