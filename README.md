@@ -1,4 +1,6 @@
 # program-languages-collect
+## 第三方编程语言收录网站
+[rosetaacode.org](https://www.rosettacode.org/wiki/Category:Programming_Languages)
 ## 编程语言收录
 | 语言 |                     语言类型                                |           官网               | 静态类型推导支持?  | 垃圾回收机制(GC) |
 | --- | ---------------------------------------------------------- | --------------------------- | ---------------- | -------------- |
