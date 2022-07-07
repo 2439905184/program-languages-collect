@@ -27,7 +27,7 @@
 | aime | aime是一种简单，类似C，程序，命令式的计算机编程语言。它被设计为一种针对应用程序扩展的轻量级语言[1]。因此，aime解释器很容易嵌入到其他应用程序中。出于同样的原因，该语言强调应用程序的完整性和可访问性。| https://sourceforge.net/projects/aime-embedded/ | 不清楚 | 不清楚 |
 | Arturo | Arturo是一种独立开发的现代编程语言，与其他各种编程语言有模糊的联系 - 包括但不限于Logo，Rebol，Forth，Ruby，Haskell，D，SmallTalk，Tcl和Lisp。| https://arturo-lang.io/ | 不清楚 |不清楚|
 | Pike | Pike是一种动态编程语言，其语法类似于Java和C。它易于学习，不需要长时间的编译过程，并具有强大的内置数据类型，允许简单而快速的数据操作。 | http://pike.lysator.liu.se/ |不清楚|不清楚|
-
+| Haxe | Haxe是一种开源的高级严格类型编程语言，具有快速优化的交叉编译器 | https://haxe.org/ | 不清楚 | 不清楚 |
 
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
