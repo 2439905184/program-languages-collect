@@ -21,6 +21,7 @@
 | Wren | Wren 是一种小型、快速、基于类的并发脚本语言# |  https://wren.io/ | 不清楚 | 不清楚 |
 | zkl | zkl 是一种通用的面向对象编程语言 | http://www.zenkinetic.com/zkl.html | 不清楚 | 不清楚 |
 | 8th | 8th™ 是一个跨平台、安全、健壮、经济高效、可扩展的现代编程语言和开发环境。(代码是跨平台的（Windows，OS X，Linux，Android，iOS，Raspberry Pi) | https://8th-dev.com/| 不清楚 | 不清楚 |
+| Aikido | Aaikido是一种解释型语言，可用于快速脚本，原型设计和一般编程任务。| http://aikido.sourceforge.net/ | 不清楚 | 不清楚 |
 
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
