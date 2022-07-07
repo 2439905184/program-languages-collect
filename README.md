@@ -23,6 +23,9 @@
 | 8th | 8th™ 是一个跨平台、安全、健壮、经济高效、可扩展的现代编程语言和开发环境。(代码是跨平台的（Windows，OS X，Linux，Android，iOS，Raspberry Pi) | https://8th-dev.com/| 不清楚 | 不清楚 |
 | Aikido | Aaikido是一种解释型语言，可用于快速脚本，原型设计和一般编程任务。| http://aikido.sourceforge.net/ | 不清楚 | 不清楚 |
 | aime | aime是一种简单，类似C，程序，命令式的计算机编程语言。它被设计为一种针对应用程序扩展的轻量级语言[1]。因此，aime解释器很容易嵌入到其他应用程序中。出于同样的原因，该语言强调应用程序的完整性和可访问性。| https://sourceforge.net/projects/aime-embedded/ | 不清楚 | 不清楚 |
+| Arturo | Arturo是一种独立开发的现代编程语言，与其他各种编程语言有模糊的联系 - 包括但不限于Logo，Rebol，Forth，Ruby，Haskell，D，SmallTalk，Tcl和Lisp。| https://arturo-lang.io/ | 不清楚 |不清楚|
+
+
 
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
