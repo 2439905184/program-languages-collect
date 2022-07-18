@@ -1,6 +1,8 @@
 # program-languages-collect
+
 ## 第三方编程语言收录网站
 [rosetaacode.org](https://www.rosettacode.org/wiki/Category:Programming_Languages)
+
 ## 编程语言收录
 | 语言 |                     语言类型                                |           官网               | 静态类型推导支持?  | 垃圾回收机制(GC) |
 | --- | ---------------------------------------------------------- | --------------------------- | ---------------- | -------------- |
@@ -46,3 +48,4 @@
 | --- | -------------------------------------- | -------------------------------------------------------------------------------|
 | VcnStudio |http://www.vcnstudio.com/index.html| 一个轻量级的中文集成开发工具 |
 | TC简单程序开发工具| http://www.tyuyan.net/  |   能陪伴你每日每夜的脚本开发工具,简单,轻松,强大,一个开发工具可以开发windows,安卓两个平台的应用 |
+| VisualFreeBasic | http://www.yfvb.com/soft-48.htm | 开发Windows操作系统桌面应用软件的IDE（可视化集成开发环境），使用 FreeBasic 语言（语法和 VisualBasic6 一样，扩展了高级功能和系统底层处理能力，和C语言一样强大，编程方法和 VisualBasic6 一样简单易用） |
