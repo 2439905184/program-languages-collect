@@ -35,6 +35,7 @@
 | OCaml | OCaml是一种通用的工业级编程语言，强调表现力和安全性。 | https://ocaml.org/ | 不清楚 | 不清楚 |
 | Neko | Neko是一种高级动态类型编程语言。它可以用作嵌入式脚本语言。它被设计为为几种不同的语言提供通用运行时。学习和使用Neko非常容易。您可以使用C库轻松扩展语言。您还可以将生成器从您自己的语言写入 Neko，然后使用 Neko 运行时编译、运行和访问现有库。 | https://nekovm.org/ | 不清楚 | 不清楚 |
 | AutoHotKey| Powerful. Easy to learn.The ultimate automation scripting language for Windows. | https://www.autohotkey.com/ |不清楚 | 不清楚 |
+| Autoit3 | AutoIt v3是一种类似BASIC的免费脚本语言，旨在自动化Windows GUI和常规脚本。 | https://www.autoitscript.com/site/autoit/ | 不清楚 | 不清楚 |
 | NiceBasic| 　　NiceBASIC中文编程是一款全中文关键字的编程语言 | 年代久远，已丢失 下载：https://www.anxz.com/down/19201.html | 不清楚 | 不清楚 |
 
 ## 开源库收录
