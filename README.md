@@ -53,3 +53,5 @@
 | VisualFreeBasic | http://www.yfvb.com/soft-48.htm | 开发Windows操作系统桌面应用软件的IDE（可视化集成开发环境），使用 FreeBasic 语言（语法和 VisualBasic6 一样，扩展了高级功能和系统底层处理能力，和C语言一样强大，编程方法和 VisualBasic6 一样简单易用） |
 | aardio | https://aardio.com/              |aardio 专注于桌面软件开发，17年一直保持非常活跃地更新( 更新日志 )，aardio 被多年用于生产项目实践，久经测试和锤炼。|
 | 赤兔引擎(55ide) | http://www.55ide.com/ | 跨平台h5游戏引擎 | 
+| 极语言 中文编程| http://zx-1252114143.cos.ap-guangzhou.myqcloud.com/sec.htm | 中文编程 |
+[极语言下载](https://github.com/2439905184/program-languages-collect/releases/download/v1.1/Sec.zip)
