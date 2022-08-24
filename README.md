@@ -55,3 +55,4 @@
 | 赤兔引擎(55ide) | http://www.55ide.com/ | 跨平台h5游戏引擎 | 
 | 极语言 中文编程| http://zx-1252114143.cos.ap-guangzhou.myqcloud.com/sec.htm | 中文编程 |
 [极语言下载](https://github.com/2439905184/program-languages-collect/releases/download/v1.1/Sec.zip)
+| Lazarus| https://www.lazarus-ide.org/ | Lazarus 是一个与 Delphi 兼容的跨平台 IDE，用于快速应用程序开发。它具有各种随时可用的组件和图形表单设计器，可轻松创建复杂的图形用户界面。它能做什么？您可以创建自己的开源或商业应用程序。使用Lazarus，您可以创建文件浏览器，图像查看器，数据库应用程序，图形编辑软件，游戏，3D软件，医学分析软件或任何其他类型的软件。|
