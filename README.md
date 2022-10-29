@@ -37,7 +37,8 @@
 | AutoHotKey| Powerful. Easy to learn.The ultimate automation scripting language for Windows. | https://www.autohotkey.com/ |不清楚 | 不清楚 |
 | Autoit3 | AutoIt v3是一种类似BASIC的免费脚本语言，旨在自动化Windows GUI和常规脚本。 | https://www.autoitscript.com/site/autoit/ | 不清楚 | 不清楚 |
 | NiceBasic| 　　NiceBASIC中文编程是一款全中文关键字的编程语言 | 年代久远，已丢失 下载：https://www.anxz.com/down/19201.html | 不清楚 | 不清楚 |
-
+| daScript | 长得像python的静态、强类型、高性能脚本语言 | https://dascript.org/ | 不清楚 | 不清楚 |
+> 开源地址: https://github.com/GaijinEntertainment/daScript
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
 | --- | -----  | --------------------------| ----------|
