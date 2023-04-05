@@ -38,6 +38,7 @@
 | Autoit3 | AutoIt v3是一种类似BASIC的免费脚本语言，旨在自动化Windows GUI和常规脚本。 | https://www.autoitscript.com/site/autoit/ | 不清楚 | 不清楚 |
 | NiceBasic| 　　NiceBASIC中文编程是一款全中文关键字的编程语言 | 年代久远，已丢失 下载：https://www.anxz.com/down/19201.html | 不清楚 | 不清楚 |
 | daScript | 长得像python的静态、强类型、高性能脚本语言 | https://dascript.org/ | 不清楚 | 不清楚 |
+| Pascal| Pascal是一种过程式编程语言，由Niklaus Wirth于1968年设计并于1970年发布，并以法国数学家和哲学家Blaise Pascal的名字命名。Pascal可以运行在多种平台上，例如Windows、Mac OS和各种版本的UNIX/Linux| https://www.freepascal.org/ |xxx|
 > 开源地址: https://github.com/GaijinEntertainment/daScript
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
