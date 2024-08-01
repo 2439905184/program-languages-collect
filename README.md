@@ -41,6 +41,7 @@
 | Pascal| Pascal是一种过程式编程语言，由Niklaus Wirth于1968年设计并于1970年发布，并以法国数学家和哲学家Blaise Pascal的名字命名。Pascal可以运行在多种平台上，例如Windows、Mac OS和各种版本的UNIX/Linux| https://www.freepascal.org/ |xxx|
 | clean语言 | |https://clean.cs.ru.nl/Clean | | |
 | 清语言 | ---------------------------------------------------------- | https://qingyuyan.cn/ | ---------------- | -------------- |
+|visual foxpro | Visual FoxPro简称VFP，是Microsoft公司推出的数据库开发软件，用它来开发数据库，既简单又方便| ---- | ----- | ------ |
 > 开源地址: https://github.com/GaijinEntertainment/daScript
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
