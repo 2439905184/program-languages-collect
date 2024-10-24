@@ -41,7 +41,9 @@
 | Pascal| Pascal是一种过程式编程语言，由Niklaus Wirth于1968年设计并于1970年发布，并以法国数学家和哲学家Blaise Pascal的名字命名。Pascal可以运行在多种平台上，例如Windows、Mac OS和各种版本的UNIX/Linux| https://www.freepascal.org/ |xxx|
 | clean语言 | |https://clean.cs.ru.nl/Clean | | |
 | 清语言 | ---------------------------------------------------------- | https://qingyuyan.cn/ | ---------------- | -------------- |
+| nelua | Minimal, simple, efficient, statically typed, compiled, metaprogrammable, safe, and extensible systems programming language with a Lua flavor| https://nelua.io/| 不清楚 |不清楚 |
 |visual foxpro | Visual FoxPro简称VFP，是Microsoft公司推出的数据库开发软件，用它来开发数据库，既简单又方便| ---- | ----- | ------ |
+| picat | Picat 是一种简单但功能强大的基于逻辑的多范式编程语言，适用于通用应用程序。Picat 是一种基于规则的语言，其中谓词、函数和参与者使用模式匹配规则定义。Picat 包含许多声明性语言功能以提高软件开发的生产力，包括显式非确定性、显式统一、函数、列表推导式、约束和表格。Picat 还为日常编程提供了命令式语言结构，例如赋值和循环。Picat 实现基于设计良好的虚拟机，并包含一个内存管理器，可在需要时对堆栈和数据区域进行垃圾回收和扩展，因此高效且可扩展。Picat 不仅可以用于符号计算（这是声明性语言的传统应用领域），还可以用于脚本和建模任务。| http://picat-lang.org/| 不清楚| 不清楚|
 > 开源地址: https://github.com/GaijinEntertainment/daScript
 ## 开源库收录
 | 类型 | 名称   | 官网                      | 官方描述 |
